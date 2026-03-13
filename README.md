@@ -33,3 +33,4 @@ I'm Aadya, a 3rd-year Computer Science Engineering student dedicated to building
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![Aadya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadi-9&show_icons=true&theme=radical)
