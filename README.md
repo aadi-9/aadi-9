@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Aadya, a 3rd-year Computer Science Engineering student dedicated to building AI software that solves real-world problems. Whether it's optimizing data structures or exploring the frontiers of Generative AI, I love the challenge of turning complex logic into clean code.
+
+🔭 I’m currently working on: An AI-Powered CI/CD Auto-Remediation
+
+🌱 I’m currently learning: The nuances of Generative AI and How to contribute to open source.
+
+📫 How to reach me: (https://www.linkedin.com/in/aadya-nagar) or shoot me an email!
+
+⚡ Fun fact: I’ve officially reached the "Vibecoding" stage of my engineering degree. That’s when the code is 10% syntax, 90% "vibing" with the LLM, and 100% "if it works, don't touch it."
