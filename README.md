@@ -24,10 +24,11 @@ I'm Aadya, a 3rd-year Computer Science Engineering student dedicated to building
 
 ⚡ Fun fact: I’ve officially reached the "Vibecoding" stage that’s when the code is 10% syntax, 90% "vibing" with the LLM, and 100% "if it works, don't touch it."
 
+
 <table>
   <tr>
-    <td width="50%" align="center"><h3>🏆 Current Techstack</h3></td>
-    <td width="50%" align="center"><h3>🌱 Learning</h3></td>
+    <td width="50%" align="center"><h3>Current Techstack</h3></td>
+    <td width="50%" align="center"><h3>Learning</h3></td>
   </tr>
   <tr>
     <td align="center">
