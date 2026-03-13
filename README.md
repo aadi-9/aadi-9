@@ -23,3 +23,13 @@ I'm Aadya, a 3rd-year Computer Science Engineering student dedicated to building
 📫 How to reach me: (https://www.linkedin.com/in/aadya-nagar) or shoot me an email!
 
 ⚡ Fun fact: I’ve officially reached the "Vibecoding" stage that’s when the code is 10% syntax, 90% "vibing" with the LLM, and 100% "if it works, don't touch it."
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
