@@ -22,7 +22,7 @@ I'm Aadya, a 3rd-year Computer Science Engineering student dedicated to building
 
 📫 How to reach me: (https://www.linkedin.com/in/aadya-nagar) or shoot me an email!
 
-⚡ Fun fact: I’ve officially reached the "Vibecoding" stage that’s when the code is 10% syntax, 90% "vibing" with the LLM, and 100% "if it works, don't touch it."
+⚡ Fun fact: I’ve officially reached the "Vibelearning" stage that’s when the code is 10% syntax, 90% "vibing" with the LLM, and 100% "if it works, don't touch it."
 
 
 <table>
